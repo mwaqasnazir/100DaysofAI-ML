@@ -1,0 +1,3 @@
+Hy It's Me Muhammad Waqas Nazir.
+This is File Handling Practice.
+Using Python
